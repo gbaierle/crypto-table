@@ -19,6 +19,11 @@ npm run serve
 npm run build
 ```
 
+### Run unit tests
+```
+npm run test
+```
+
 ### Lints and fixes files
 ```
 npm run lint

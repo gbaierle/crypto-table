@@ -44,7 +44,7 @@
 
 <script>
 export default {
-  name: 'CoinTable',
+  name: 'CoinsTable',
   data() {
     return {
       headers: [
